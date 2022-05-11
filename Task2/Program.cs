@@ -19,11 +19,7 @@ else
     Console.Write("MAX = "); 
     Console.WriteLine(number2);
 }
-if (number1 != number2)
-{
-    Console.Write("MAX = "); 
-    Console.WriteLine(number1);
-}
+
 
 
 
