@@ -1,0 +1,15 @@
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/bin/Debug/net6.0/Task6
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/bin/Debug/net6.0/Task6.deps.json
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/bin/Debug/net6.0/Task6.runtimeconfig.json
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/bin/Debug/net6.0/Task6.dll
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/bin/Debug/net6.0/Task6.pdb
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/Task6.csproj.AssemblyReference.cache
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/Task6.AssemblyInfoInputs.cache
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/Task6.AssemblyInfo.cs
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/Task6.csproj.CoreCompileInputs.cache
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/Task6.dll
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/refint/Task6.dll
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/Task6.pdb
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/Task6.genruntimeconfig.cache
+/Users/ilabekker/Desktop/ОБУЧЕНИЕ/C# Homework1/Task6/obj/Debug/net6.0/ref/Task6.dll
